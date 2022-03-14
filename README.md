@@ -1,5 +1,5 @@
 # Proyecto_Colectivo
-Objetivo principal del repositorio.
+Objetivo principal del repositorio:
 Crear una web de forma colaborativa utilizando gitpod y github, practicando el gitflow y los comandos de operación.
 
 Estructura básica:
